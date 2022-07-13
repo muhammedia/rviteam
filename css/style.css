@@ -841,7 +841,7 @@ ul.minicart .cart-price .new {
     line-height: 32px;
     border-radius: 4px;
     box-shadow: rgb(0 0 0 / 35%) 0px 3px 7px 0px;
-    color: #ff4800;
+    color: #00FFFF;
     font-size: 12px;
 }
 .t-header-top-area .header-top-login ul {
@@ -926,7 +926,7 @@ ul.minicart .cart-price .new {
 .third-banner-content h2 span,
 .third-title-style h2 span,
 .third-title-style .vertical-title {
-    color: #ee5519;
+    color: #00FFFF;
 }
 .third-header-bg .menu-style-two .navbar-wrap > ul > li > a {
     padding: 35px 0;
@@ -1383,7 +1383,7 @@ ul.minicart .cart-price .new {
 }
 .rotated-btn {
     font-size: 16px;
-    background: #ff5917;
+    background: #00FFFF;
     border-radius: 0;
     color: #fff;
     padding: 19px 31px;
@@ -1400,7 +1400,7 @@ ul.minicart .cart-price .new {
     top: 0;
     width: 0;
     height: 0;
-    border-top: 54px solid #ff5917;
+    border-top: 54px solid #00FFFF;
     left: -17px;
 	border-left: 17px solid transparent;
 	transition: all 0.3s ease 0s;
@@ -1413,7 +1413,7 @@ ul.minicart .cart-price .new {
     top: 0;
     width: 0;
     height: 0;
-    border-top: 54px solid #ff5917;
+    border-top: 54px solid #00FFFF;
     right: -17px;
 	border-right: 17px solid transparent;
 	transition: all 0.3s ease 0s;
@@ -1824,7 +1824,7 @@ ul.minicart .cart-price .new {
     margin-bottom: 0;
 }
 .third-section-title h2 span {
-	color: #ff5917;
+	color: #00FFFF;
 }
 .third-section-title {
     padding-bottom: 25px;
@@ -5549,7 +5549,7 @@ ul.minicart .cart-price .new {
 
 /* Header */
 .home-six-header .t-header-top-area .header-top-social ul li a {
-    color: #cfcdcd;
+    color: #00FFFF;
 }
 .home-six-header .t-header-top-area .header-top-social ul li a:hover,
 .home-six-header .t-header-top-area .header-top-login ul li a:hover,
@@ -5559,7 +5559,7 @@ ul.minicart .cart-price .new {
 .home-six-header .navbar-wrap ul li .submenu li:hover > a,
 .home-six-header .navbar-wrap ul li .submenu li.active > a,
 .home-six-header .header-action ul li.header-search a {
-    color: #c8ff0b;
+    color: #00FFFF;
 }
 .home-six-header .t-header-top-area .header-top-login ul li a i {
     color: #cfcdcd;
